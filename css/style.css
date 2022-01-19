@@ -271,7 +271,7 @@ h2,h1,h3{
 
 
   /* anitmaion section */
- .banner {
+ .banner:hover {
     position: relative;
     animation-name: leftanimation;
     animation-duration: 5s;
